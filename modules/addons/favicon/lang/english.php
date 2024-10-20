@@ -1,0 +1,33 @@
+<?php
+
+$_ADDONLANG['help']                                              = "Help";
+$_ADDONLANG['home']                                              = "Home";
+$_ADDONLANG['createnewfavicon']                                  = "Create New Favicon";
+$_ADDONLANG['editfavicon']                                       = "Edit Favicon";
+$_ADDONLANG['title']                                             = "Title";
+$_ADDONLANG['cancel']                                            = "Cancel";
+$_ADDONLANG['back']                                              = "Back";
+$_ADDONLANG['delete']                                            = "Delete";
+$_ADDONLANG['edit']                                              = "Edit";
+$_ADDONLANG['norecordsfound']                                    = "No Records Found";
+$_ADDONLANG['enable']                                            = "Enable";
+$_ADDONLANG['disable']                                           = "Disable";
+$_ADDONLANG['disablehelp']                                       = "Tick this box to disable the favicon";
+$_ADDONLANG['savechanges']                                       = "Save Changes";
+$_ADDONLANG['success']                                           = "Success!";
+$_ADDONLANG['successhelp']                                       = "Changes Saved Successfully!";
+$_ADDONLANG['deletehelp']                                        = "Are you sure that you want to delete this";
+$_ADDONLANG['fromyourcomputer']                                  = "From Your Computer";
+$_ADDONLANG['fromhelp']                                          = "Only PNG images allowed weight and height 48px";
+$_ADDONLANG['displayorder']                                      = "Display Order";
+$_ADDONLANG['browse']                                            = "Browse...";
+$_ADDONLANG['pageurl']                                           = "Page URL";
+$_ADDONLANG['pageurlhelp']                                       = "If you enter a page URL the favicon will only show in that page please enter full page URL";
+$_ADDONLANG['error']                                             = "Error!";
+$_ADDONLANG['error001']                                          = "Image weight and height has to be 48px";
+$_ADDONLANG['error003']                                          = "You can only upload a PNG image";
+$_ADDONLANG['error004']                                          = "Please enter a title";
+$_ADDONLANG['image']                                             = "Image";
+$_ADDONLANG['allpages']                                          = "All Pages";
+$_ADDONLANG['status']                                            = "Status";
+$_ADDONLANG['sortorder']                                         = "Sort Order";
